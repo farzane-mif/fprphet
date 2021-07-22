@@ -1,0 +1,8 @@
+scipy
+pandas
+matplotlib
+numpy
+fbprophet
+streamlit
+scikit_learn
+pystan==2.19.1.1
